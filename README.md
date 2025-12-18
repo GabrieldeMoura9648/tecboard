@@ -20,10 +20,6 @@ tecboard/
 ├── index.html
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
-└── assets/
-    └── imagens, ícones ou outros recursos
 ```
 
 > A estrutura pode variar conforme a evolução do projeto durante o curso.
