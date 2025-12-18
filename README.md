@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso de **Front-end da Alura**, com foco na prá
 
 ## 📌 Sobre o projeto
 
-O **TecBoard** é uma aplicação front-end criada com o objetivo de consolidar conceitos essenciais do desenvolvimento web, incluindo estruturação semântica, estilização e interatividade com JavaScript. O projeto simula um ambiente de interface voltado à tecnologia, permitindo aplicar boas práticas ensinadas ao longo do curso.
+O **TecBoard** é uma aplicação front-end criada com o objetivo de consolidar conceitos essenciais do desenvolvimento web, incluindo estruturação semântica e estilização. O projeto simula um ambiente de interface voltado à tecnologia, permitindo aplicar boas práticas ensinadas ao longo do curso.
 
 Este repositório faz parte do meu processo de aprendizado e evolução como estudante de **Desenvolvimento de Software Multiplataforma**.
 
@@ -12,7 +12,6 @@ Este repositório faz parte do meu processo de aprendizado e evolução como est
 
 * **HTML5** – Estrutura semântica da aplicação
 * **CSS3** – Estilização, layout e responsividade
-* **JavaScript** – Lógica e interatividade no front-end
 
 ## 📂 Estrutura do projeto
 
